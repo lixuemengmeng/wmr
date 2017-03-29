@@ -29,3 +29,12 @@
 .partpage li:hover{
     background: #a8efd1;
 }
+.log-div{
+    float: right;
+}
+#log-a{
+    color: black;
+}
+#reg-a{
+    color: black;
+}
